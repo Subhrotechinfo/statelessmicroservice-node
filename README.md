@@ -15,7 +15,7 @@ To get up and running:
 
 **1.** Clone the repo.
 ```
-git clone https://github.com/Subhrotechinfo/statelessmicroservicenode.git
+git clone https://github.com/Subhrotechinfo/statelessmicroservice-node.git
 ```
 
 **2.**  ```cd``` into repo. Use the same directory name(below) if you do not change it.
@@ -204,3 +204,4 @@ This is CRUD operation.
 
 ### Author :bowtie:
 Subhro Chatterjee | :relaxed: Licensed under [Creative Commons](https://creativecommons.org/licenses/by-sa/4.0/) | 2021 | :pray:
+
