@@ -142,7 +142,7 @@ This is CRUD operation.
 
 
 ##### For Delete  - 
- 1. Set the request to **DELETE** and the url to /api/postsUpdate. 
+ 1. Set the request to **DELETE** and the url to /api/postsDelete. 
  2. Set the token in the headers.
  3. In the **Body** for the Postman request, select **raw** and from dropdown select type as **JSON**.
  4. You will be sending 1 keys . Set the ```id``` key to the id for the post that you receive in listing API.
